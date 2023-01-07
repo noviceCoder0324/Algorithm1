@@ -37,21 +37,84 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "D:/github",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Chapter1_1" />
+      <recent name="$PROJECT_DIR$/Chapter1_1/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Chapter1_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomSeq" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomSeq" />
+      <module name="Chapter1_1" />
+      <option name="PROGRAM_PARAMETERS" value="5 100 200" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_11" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_11" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_14" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_14" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_15" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_15" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_17" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_17" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_18" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_18" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_19" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_19" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_8" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_8" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="Chapter1_1" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -60,6 +123,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>
