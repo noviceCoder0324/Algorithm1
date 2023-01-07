@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9374b2-3e37-41a6-ae0d-858b47b27d6c" name="Changes" comment="" />
+    <list default="true" id="e364d702-1948-4cec-a695-1876e9b3df19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="2Jsgsmyps9ciOLDqHicU2OHmBIK" />
+  <component name="ProjectId" id="2JyeGiuDlpHG1kZpRW3bks9YTb5" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -35,11 +35,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/PB/Documents/GitHub/Algorithm1/Chapter1_1",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/PB/Documents/GitHub/Algorithm1/algs4.jar",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -49,9 +48,13 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_21" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_21" />
+      <module name="Chapter1_1" />
+      <option name="PROGRAM_PARAMETERS" value="&lt; data.txt" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
