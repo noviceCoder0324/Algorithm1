@@ -1,4 +1,0 @@
-liu 12 24
-song 32 15
-long 3 18
-fu 2 1
