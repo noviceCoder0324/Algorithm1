@@ -31,18 +31,18 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "D:/github",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -50,7 +50,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.ex1_1_27">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -98,6 +98,17 @@
     </configuration>
     <configuration name="ex1_1_19" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ex1_1_19" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_24" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_24" />
+      <module name="Chapter1_1" />
+      <option name="PROGRAM_PARAMETERS" value="30 18" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_27" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_27" />
       <module name="Chapter1_1" />
       <method v="2" />
     </configuration>
