@@ -50,7 +50,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex1_1_29">
+  <component name="RunManager" selected="Application.ex1_1_32">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -122,6 +122,22 @@
       <option name="MAIN_CLASS_NAME" value="ex1_1_29" />
       <module name="Chapter1_1" />
       <option name="PROGRAM_PARAMETERS" value="whilelist.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_30" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_30" />
+      <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_31" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_31" />
+      <module name="Chapter1_1" />
+      <option name="PROGRAM_PARAMETERS" value="20 0.5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_1_32" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_1_32" />
+      <module name="Chapter1_1" />
       <method v="2" />
     </configuration>
     <configuration name="ex1_1_8" type="Application" factoryName="Application">
