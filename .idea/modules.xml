@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm1.iml" filepath="$PROJECT_DIR$/.idea/Algorithm1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter1_1/Chapter1_1.iml" filepath="$PROJECT_DIR$/Chapter1_1/Chapter1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1_2/Chapter1_2.iml" filepath="$PROJECT_DIR$/Chapter1_2/Chapter1_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Percolation/Percolation.iml" filepath="$PROJECT_DIR$/Percolation/Percolation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramModel/ProgramModel.iml" filepath="$PROJECT_DIR$/ProgramModel/ProgramModel.iml" />
     </modules>
