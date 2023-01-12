@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestVisualAccumulator">
+  <component name="RunManager" selected="Application.ex1_2_3">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -156,6 +156,18 @@
     <configuration name="ex1_1_8" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ex1_1_8" />
       <module name="Chapter1_1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_1" />
+      <module name="Chapter1_2" />
+      <option name="PROGRAM_PARAMETERS" value="20" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_3" />
+      <module name="Chapter1_2" />
+      <option name="PROGRAM_PARAMETERS" value="50 1.0 5.0" />
       <method v="2" />
     </configuration>
     <configuration name="test" type="Application" factoryName="Application">
