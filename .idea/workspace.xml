@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex1_2_3">
+  <component name="RunManager" selected="Application.ex1_2_7">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -168,6 +168,26 @@
       <option name="MAIN_CLASS_NAME" value="ex1_2_3" />
       <module name="Chapter1_2" />
       <option name="PROGRAM_PARAMETERS" value="50 1.0 5.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_4" />
+      <module name="Chapter1_2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_5" />
+      <module name="Chapter1_2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_6" />
+      <module name="Chapter1_2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_2_7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_2_7" />
+      <module name="Chapter1_2" />
       <method v="2" />
     </configuration>
     <configuration name="test" type="Application" factoryName="Application">
