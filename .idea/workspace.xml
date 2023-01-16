@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex1_2_12">
+  <component name="RunManager" selected="Application.Stack">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -66,6 +66,12 @@
       <option name="MAIN_CLASS_NAME" value="RandomSeq" />
       <module name="Chapter1_1" />
       <option name="PROGRAM_PARAMETERS" value="5 100 200" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
+      <module name="Chapter1_3" />
+      <option name="PROGRAM_PARAMETERS" value="&lt; tobe.txt" />
       <method v="2" />
     </configuration>
     <configuration name="TestAccumulator" type="Application" factoryName="Application">
