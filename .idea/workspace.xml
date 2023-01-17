@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Chapter1_1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stack">
+  <component name="RunManager" selected="Application.ex1_3_2">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -209,6 +209,16 @@
     <configuration name="ex1_2_7" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ex1_2_7" />
       <module name="Chapter1_2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_3_1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_3_1" />
+      <module name="Chapter1_3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1_3_2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ex1_3_2" />
+      <module name="Chapter1_3" />
       <method v="2" />
     </configuration>
     <configuration name="test" type="Application" factoryName="Application">

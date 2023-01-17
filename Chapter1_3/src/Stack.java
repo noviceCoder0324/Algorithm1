@@ -56,6 +56,8 @@ public class Stack<Item> implements Iterable<Item> {
 
     public static void main(String[] args) {
 
+        Stack<String>[] a = (Stack<String>[]) new Object[10];
+
         Stack<String> s = new Stack<String>();
 
         while (!StdIn.isEmpty()) {
