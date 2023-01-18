@@ -16,8 +16,8 @@ public class ResizingArrayStack<Item> implements Iterable<Item> {
     public void push(Item item) {
         if (N == a.length) {
             resize(2 * a.length);
-            a[N++] = item;
         }
+        a[N++] = item;
     }
 
     private void resize(int k) {
@@ -35,6 +35,11 @@ public class ResizingArrayStack<Item> implements Iterable<Item> {
             resize(a.length / 2);
         }
         return item;
+    }
+
+    public Item peek() {
+        if (N == 0) return null;
+        return a[N - 1];
     }
 
     //这个是iterable必备的部分，需要return一个iterator
