@@ -1,5 +1,3 @@
-import edu.princeton.cs.algs4.StdOut;
-
 public class ex1_3_1 {
     public static void main(String[] args) {
         FixedCapacityStack<String> a = new FixedCapacityStack<>(10);
@@ -7,7 +5,7 @@ public class ex1_3_1 {
             a.push("something");
         }
         for (int i = 0; i < 10; i++) {
-            StdOut.println(a.pop());
+            System.out.println(a.pop());
         }
 
     }

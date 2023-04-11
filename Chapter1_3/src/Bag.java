@@ -17,7 +17,7 @@ public class Bag<Item> implements Iterable<Item> {
     }
 
     public Iterator<Item> iterator() {
-        return new Iterator<>() {
+        return new Iterator<Item>() {
             private Node p = first;
 
             public boolean hasNext() {
